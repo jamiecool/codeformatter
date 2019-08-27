@@ -1,6 +1,7 @@
 # CodeFormatter
 
 [![Build status](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/badge/icon)](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fcodeformatter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fcodeformatter?ref=badge_shield)
 
 CodeFormatter is a tool that uses Roslyn to automatically rewrite the source to
 follow our coding styles, which are [documented here][corefx-coding-style].
@@ -37,3 +38,7 @@ We follow the same contribution process that
 [corefx is using][corefx-contributing].
 
 [corefx-contributing]: https://github.com/dotnet/corefx/wiki/Contributing
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fcodeformatter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fcodeformatter?ref=badge_large)
