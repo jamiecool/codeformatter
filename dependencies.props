@@ -4,7 +4,7 @@
     <MSBuildPackageVersion>15.7.179</MSBuildPackageVersion>
     <MicrosoftCodeAnalysisPackageVersion>2.8.2</MicrosoftCodeAnalysisPackageVersion>
     <MicrosoftCodeAnalysisAnalyzersPackageVersion>2.6.1</MicrosoftCodeAnalysisAnalyzersPackageVersion>
-    <XunitPackageVersion>2.4.0</XunitPackageVersion>
+    <XunitPackageVersion>2.4.1</XunitPackageVersion>
     <MicrosoftVisualStudioTestPlatformPackageVersion>14.0.0.1</MicrosoftVisualStudioTestPlatformPackageVersion>
   </PropertyGroup>
 </Project>
